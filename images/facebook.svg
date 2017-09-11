@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="21px" viewBox="0 0 11 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="coin-drive" transform="translate(-654.000000, -9277.000000)" fill="#FFFFFF">
+            <g id="footer" transform="translate(-0.000000, 9185.000000)">
+                <g id="soc-icons" transform="translate(595.000000, 89.000000)">
+                    <path d="M65.75,10.5 L69.125,10.5 L68.703125,13.875 L65.75,13.875 L65.75,24 L61.3730469,24 L61.3730469,13.875 L59,13.875 L59,10.5 L61.3730469,10.5 L61.3730469,8.23242188 C61.3730469,6.75585199 61.7421838,5.63965222 62.4804688,4.88378906 C63.2187537,4.12792591 64.4492101,3.75 66.171875,3.75 L69.125,3.75 L69.125,7.125 L67.3320313,7.125 C66.6640592,7.125 66.2333994,7.2304677 66.0400391,7.44140625 C65.8466787,7.6523448 65.75,8.00390379 65.75,8.49609375 L65.75,10.5 Z" id="facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

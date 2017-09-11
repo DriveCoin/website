@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="51px" viewBox="0 0 50 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>ion-chatbubble - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.2%" y="-7.7%" width="108.5%" height="116.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.105882353   0 0 0 0 0.105882353   0 0 0 0 0.105882353  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0" opacity="0.5">
+        <g id="coin-drive" transform="translate(-262.000000, -8929.000000)" stroke="#1F1F1F" stroke-width="2" fill="#1F1F1F">
+            <g id="news" transform="translate(-491.000000, 8556.000000)">
+                <g id="1st" filter="url(#filter-1)" transform="translate(623.000000, 170.000000)">
+                    <path d="M155.15625,236.048828 C152.356757,236.048828 149.964203,235.096689 147.978516,233.192383 C145.992829,231.288076 145,228.98504 145,226.283203 C145,223.581367 145.992829,221.270192 147.978516,219.349609 C149.964203,217.429027 152.356757,216.46875 155.15625,216.46875 C157.955743,216.46875 160.348297,217.429027 162.333984,219.349609 C164.319671,221.270192 165.3125,223.581367 165.3125,226.283203 C165.3125,228.203786 164.775396,229.961581 163.701172,231.556641 L163.603516,231.654297 C163.570963,231.686849 163.554688,231.719401 163.554688,231.751953 C163.424479,232.012371 163.359375,232.256509 163.359375,232.484375 L164.433594,236.78125 L160.332031,235.267578 C160.201822,235.202474 160.006512,235.169922 159.746094,235.169922 C159.648437,235.169922 159.469402,235.202474 159.208984,235.267578 C159.176432,235.267578 159.160156,235.275716 159.160156,235.291992 C159.160156,235.308268 159.14388,235.316406 159.111328,235.316406 C157.906895,235.80469 156.588549,236.048828 155.15625,236.048828 Z" id="ion-chatbubble---Ionicons"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
